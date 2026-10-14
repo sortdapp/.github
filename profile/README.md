@@ -13,6 +13,8 @@ Sortd is an iPhone app. When you pay with Apple Pay, it logs the purchase for yo
 
 The beta is open. You can join at [sortd.page/beta](https://sortd.page/beta).
 
+Sortd was founded by Kameshraj Gnanaprakasam ([@kameshraj912](https://github.com/kameshraj912)).
+
 [sortd.page](https://sortd.page) · [Instagram](https://instagram.com/sortd.money) · [support@sortd.page](mailto:support@sortd.page)
 
 Consider it Sortd.
