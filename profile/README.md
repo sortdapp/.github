@@ -6,13 +6,11 @@
 </p>
 
 <p align="center">
-  Sortd is the spending tracker that fills itself in.
+  Your spending, consider it Sortd.
 </p>
 
-Sortd is an iPhone app. When you pay with Apple Pay, it logs the purchase for you. It works with any bank, in any country, and your purchases stay on your phone. Sortd is free.
+Sortd is an iPhone app. Each time you pay with Apple Pay, it adds the purchase for you. It works with any bank, in any country, and your purchases stay on your phone. Sortd is free.
 
-The beta is open. You can join at [sortd.page/beta](https://sortd.page/beta).
+Sortd is a work in progress. You can try the beta at [sortd.page/beta](https://sortd.page/beta).
 
 [sortd.page](https://sortd.page) · [Instagram](https://instagram.com/sortd.money) · [support@sortd.page](mailto:support@sortd.page)
-
-Consider it Sortd.
